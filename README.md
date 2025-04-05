@@ -1,2 +1,2 @@
 # AIML
-It contains examles of what i learned
+It contains examples of what i learned
